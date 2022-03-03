@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, its my small habitat from my world. I hope u will be spent great time here or u will be find what u need ! 👋
 
 <!--
 **blorein-code/blorein-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

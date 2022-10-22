@@ -1,4 +1,4 @@
-### Hi there, I'm Berke. I hope u will be spent great time here or u will be find what u need ! 
+### Hi there, I'm Berke. I'm trying to change my software department from .net developer to ios developer. You'll see how can I will alteration byself and increase my skills step by step. I hope you'll be spent good time on my github profile. ! 
 How to reach me --> berke-topcu@hotmail.com
 👋
 

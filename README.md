@@ -50,6 +50,6 @@ Right now, I'm actively looking for new software engineering opportunities in Be
 
 ### 📬 Get in Touch
 
-- 🌐 **Portfolio:** [berketopcu.com](https://berketopcu.com)[cite: 2]
-- 💼 **LinkedIn:** [linkedin.com/in/berke-topcu](https://www.linkedin.com) *(Kendi profil uzantını yaz)*
-- ✉️ **Email:** [berke-topcu@hotmail.com](mailto:berke-topcu@hotmail.com)[cite: 2]
+- 🌐 **Portfolio:** [berketopcu.com](https://berketopcu.com)
+- 💼 **LinkedIn:** [linkedin.com/in/berke-topcu](https://www.linkedin.com) 
+- ✉️ **Email:** [berke-topcu@hotmail.com](mailto:berke-topcu@hotmail.com)
